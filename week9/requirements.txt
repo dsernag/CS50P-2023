@@ -1,0 +1,5 @@
+youtube-search
+pytube
+pandas
+spotipy
+mutagen
